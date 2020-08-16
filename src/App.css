@@ -1,3 +1,26 @@
-.App {
-  text-align: center;
+header{
+  background-image: linear-gradient(rgb(164 212 226),rgb(255, 255, 255));
+  color: rgb(0, 0, 0);
+  text-align: left;
+  font-weight: 700; 
+  font-size: 75px;
+  font-family: Aguafina Script; 
+  letter-spacing: 4px;
+  padding-left: 20px;
+  margin-bottom:100px;
+  width: 100%;
 }
+.donutchart-innertext{
+  font-size: 40px;
+}
+p{
+  margin-top: 1rem !important;
+  margin-bottom: 0rem !important;
+}
+.progress{
+  height: 1.5rem !important;
+}
+.progress-bar{
+  font-size: 1rem;
+}
+
